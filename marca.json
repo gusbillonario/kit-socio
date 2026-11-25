@@ -1,0 +1,10 @@
+{
+  "nombre": "Nombre del socio",
+  "handle": "@usuario_del_socio",
+  "acento": "#2EC4B6",
+  "fondo": "#0F0F0F",
+  "fuente_fuerte": "/usr/share/fonts/opentype/montserrat/Montserrat-Black.otf",
+  "fuente_texto": "/usr/share/fonts/opentype/montserrat/Montserrat-Bold.otf",
+  "fuente_elegante": "/usr/share/fonts/truetype/extra/InstrumentSerif-Italic.ttf",
+  "familia_web": "Montserrat"
+}
