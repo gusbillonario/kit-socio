@@ -1,0 +1,1 @@
+{"hook": {"lines": ["ESTO ES", "UNA PRUEBA"], "hold": 2.0}, "mood": "motivacional", "punches": [3.0], "mg": [{"type": "card", "t": 3.2, "d": 1.5, "text": "TU PROPIO COLOR", "icon": "check"}, {"type": "stamp", "t": 5.0, "d": 1.0, "text": "AUTOM\u00c1TICO"}, {"type": "end", "t": 6.6, "end": 7.6, "l1": "S\u00cdGUEME", "l2": "PARA M\u00c1S"}]}
